@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JOEMBATIA
-- 👀 I’m interested in OOP especially python and java 
-- 🌱 I’m currently learning python and java
+- 👀 I’m quite knowledgeable in Java and Spring boot 
+- 🌱 I’m a Spring Boot developer with experience in Rest APIs, microservice architecture, containerization tools such as Docker also ERP and CRMs such as BC and Odoo
 - 💞️ I’m looking to collaborate on team work 
 - 📫 How to reach me joembatia270@gmail.com
 
