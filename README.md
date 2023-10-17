@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JOE MBATIA
-- 👀 I’m quite knowledgeable in Java and Spring boot 
+- 👀 I’m knowledgeable in Java, Spring boot, Spring MVC, Spring Data JPA, RDBMS such as PostgreSQL, MSSQL and MySQL. 
 - 🌱 I’m a Spring Boot developer with experience in Rest APIs, microservice architecture, containerization tools such as Docker also ERP and CRMs such as BC and Odoo
 - 💞️ I’m looking to collaborate on team work 
 - 📫 How to reach me joembatia270@gmail.com
